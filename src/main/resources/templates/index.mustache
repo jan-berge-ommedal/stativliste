@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Stativliste</title>
+    <style>
+
+        .error{
+            background-color: #ba8992;
+            margin-bottom: 1rem;
+            padding: 1rem;
+        }
+
+        body {
+            text-align: center;
+        }
+
+        table {
+            margin: 0 auto;
+        }
+
+        .left {
+            text-align: left;
+        }
+
+    </style>
+</head>
+<body>
+<h1>Stativliste</h1>
+<div>
+    {{#error}}
+        <div class="error">
+            {{error}}
+        </div>
+    {{/error}}
+</div>
+<div>
+    <table>
+        <tr>
+            <th>Stativ</th>
+            <th>Ledige sykler</th>
+            <th>Ledige låser</th>
+        </tr>
+        {{#stations}}
+            <tr>
+                <td class="left">{{name}}</td>
+                <td>{{availableBikes}}</td>
+                <td>{{availableLocks}}</td>
+            </tr>
+        {{/stations}}
+    </table>
+</div>
+</body>
+</html>

@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "787",
+    "name": "Kirkegata 15",
+    "availableBikes": 12,
+    "availableLocks": 0
+  },
+  {
+    "id": "627",
+    "name": "Skøyen Stasjon",
+    "availableBikes": 16,
+    "availableLocks": 4
+  },
+  {
+    "id": "623",
+    "name": "7 Juni Plassen",
+    "availableBikes": 12,
+    "availableLocks": 2
+  },
+  {
+    "id": "624",
+    "name": "Dælenenggata",
+    "availableBikes": 0,
+    "availableLocks": 20
+  },
+  {
+    "id": "614",
+    "name": "Sinsen T-bane",
+    "availableBikes": 0,
+    "availableLocks": 23
+  },
+  {
+    "id": "616",
+    "name": "Salt",
+    "availableBikes": 6,
+    "availableLocks": 8
+  },
+  {
+    "id": "618",
+    "name": "Bak Niels Treschows hus sør",
+    "availableBikes": 0,
+    "availableLocks": 42
+  },
+  {
+    "id": "621",
+    "name": "Torshovdalen øst",
+    "availableBikes": 0,
+    "availableLocks": 27
+  },
+  {
+    "id": "622",
+    "name": "Pilestredet 63",
+    "availableBikes": 10,
+    "availableLocks": 18
+  },
+  {
+    "id": "613",
+    "name": "Schives gate",
+    "availableBikes": 0,
+    "availableLocks": 25
+  },
+  {
+    "id": "596",
+    "name": "Idioten",
+    "availableBikes": 0,
+    "availableLocks": 17
+  },
+  {
+    "id": "617",
+    "name": "Bjerregaardsgate Øst",
+    "availableBikes": 3,
+    "availableLocks": 18
+  },
+  {
+    "id": "609",
+    "name": "Fred Olsens gate",
+    "availableBikes": 24,
+    "availableLocks": 3
+  },
+  {
+    "id": "603",
+    "name": "Frogner plass",
+    "availableBikes": 8,
+    "availableLocks": 5
+  },
+  {
+    "id": "590",
+    "name": "Majorstua skole",
+    "availableBikes": 2,
+    "availableLocks": 38
+  },
+  {
+    "id": "610",
+    "name": "Sotahjørnet",
+    "availableBikes": 0,
+    "availableLocks": 20
+  },
+  {
+    "id": "593",
+    "name": "Bjølsen mølle",
+    "availableBikes": 0,
+    "availableLocks": 28
+  },
+  {
+    "id": "530",
+    "name": "Holbergs Plass",
+    "availableBikes": 2,
+    "availableLocks": 6
+  },
+  {
+    "id": "463",
+    "name": "Schous plass trikkestopp",
+    "availableBikes": 11,
+    "availableLocks": 9
+  },
+  {
+    "id": "475",
+    "name": "Hausmanns bru",
+    "availableBikes": 21,
+    "availableLocks": 1
+  },
+  {
+    "id": "494",
+    "name": "Rådhusbrygge 4",
+    "availableBikes": 25,
+    "availableLocks": 12
+  },
+  {
+    "id": "600",
+    "name": "Dyvekes bru",
+    "availableBikes": 16,
+    "availableLocks": 8
+  },
+  {
+    "id": "440",
+    "name": "Lakkegata",
+    "availableBikes": 7,
+    "availableLocks": 9
+  },
+  {
+    "id": "612",
+    "name": "Ensjøveien",
+    "availableBikes": 1,
+    "availableLocks": 18
+  },
+  {
+    "id": "491",
+    "name": "Vaterlandsparken II",
+    "availableBikes": 13,
+    "availableLocks": 4
+  },
+  {
+    "id": "493",
+    "name": "Sofienbergparken nordvest",
+    "availableBikes": 9,
+    "availableLocks": 19
+  },
+  {
+    "id": "410",
+    "name": "Landstads gate",
+    "availableBikes": 0,
+    "availableLocks": 27
+  },
+  {
+    "id": "605",
+    "name": "Økernveien",
+    "availableBikes": 0,
+    "availableLocks": 24
+  },
+  {
+    "id": "388",
+    "name": "Skovveien",
+    "availableBikes": 8,
+    "availableLocks": 10
+  },
+  {
+    "id": "591",
+    "name": "Grenseveien",
+    "availableBikes": 4,
+    "availableLocks": 19
+  },
+  {
+    "id": "592",
+    "name": "Badebakken",
+    "availableBikes": 0,
+    "availableLocks": 18
+  },
+  {
+    "id": "585",
+    "name": "Nordre gate",
+    "availableBikes": 7,
+    "availableLocks": 8
+  },
+  {
+    "id": "565",
+    "name": "Mailundveien",
+    "availableBikes": 0,
+    "availableLocks": 17
+  },
+  {
+    "id": "571",
+    "name": "Over Rådhusgata",
+    "availableBikes": 18,
+    "availableLocks": 2
+  },
+  {
+    "id": "568",
+    "name": "Frognerveien",
+    "availableBikes": 0,
+    "availableLocks": 13
+  },
+  {
+    "id": "588",
+    "name": "Meltzers gate",
+    "availableBikes": 0,
+    "availableLocks": 21
+  },
+  {
+    "id": "569",
+    "name": "Botanisk hage sør-vest",
+    "availableBikes": 4,
+    "availableLocks": 25
+  },
+  {
+    "id": "577",
+    "name": "Arkaden Nord",
+    "availableBikes": 30,
+    "availableLocks": 0
+  },
+  {
+    "id": "606",
+    "name": "Stockfleths gate",
+    "availableBikes": 0,
+    "availableLocks": 17
+  },
+  {
+    "id": "564",
+    "name": "Oscars gate",
+    "availableBikes": 0,
+    "availableLocks": 30
+  },
+  {
+    "id": "570",
+    "name": "Frøen T-bane",
+    "availableBikes": 2,
+    "availableLocks": 13
+  },
+  {
+    "id": "572",
+    "name": "Skøyen",
+    "availableBikes": 36,
+    "availableLocks": 4
+  },
+  {
+    "id": "587",
+    "name": "Riddervoldplass",
+    "availableBikes": 0,
+    "availableLocks": 13
+  },
+  {
+    "id": "586",
+    "name": "Københavngata busstopp",
+    "availableBikes": 0,
+    "availableLocks": 24
+  },
+  {
+    "id": "566",
+    "name": "Hoff terrasse holdeplass",
+    "availableBikes": 11,
+    "availableLocks": 12
+  },
+  {
+    "id": "602",
+    "name": "Jarlsborgveien",
+    "availableBikes": 1,
+    "availableLocks": 17
+  },
+  {
+    "id": "575",
+    "name": "Sognsveien",
+    "availableBikes": 1,
+    "availableLocks": 29
+  },
+  {
+    "id": "567",
+    "name": "Forskningsveien",
+    "availableBikes": 0,
+    "availableLocks": 39
+  },
+  {
+    "id": "582",
+    "name": "Stavangergata",
+    "availableBikes": 2,
+    "availableLocks": 26
+  },
+  {
+    "id": "595",
+    "name": "Skarpsnoparken",
+    "availableBikes": 2,
+    "availableLocks": 22
+  },
+  {
+    "id": "557",
+    "name": "Akersgata",
+    "availableBikes": 0,
+    "availableLocks": 19
+  },
+  {
+    "id": "542",
+    "name": "Grünerhagen Nord",
+    "availableBikes": 7,
+    "availableLocks": 13
+  },
+  {
+    "id": "563",
+    "name": "Huitfeldts gate",
+    "availableBikes": 12,
+    "availableLocks": 6
+  },
+  {
+    "id": "558",
+    "name": "Dokkveien",
+    "availableBikes": 9,
+    "availableLocks": 5
+  },
+  {
+    "id": "552",
+    "name": "Trelastgata",
+    "availableBikes": 8,
+    "availableLocks": 8
+  },
+  {
+    "id": "555",
+    "name": "Griffenfeldts gate",
+    "availableBikes": 0,
+    "availableLocks": 14
+  },
+  {
+    "id": "573",
+    "name": "Tordenskiolds gate",
+    "availableBikes": 18,
+    "availableLocks": 6
+  },
+  {
+    "id": "561",
+    "name": "Kirkeveien",
+    "availableBikes": 0,
+    "availableLocks": 24
+  },
+  {
+    "id": "615",
+    "name": "Munkedamsveien",
+    "availableBikes": 10,
+    "availableLocks": 11
+  },
+  {
+    "id": "543",
+    "name": "Fyrstikktorget",
+    "availableBikes": 4,
+    "availableLocks": 15
+  },
+  {
+    "id": "554",
+    "name": "Tåsen Senter",
+    "availableBikes": 0,
+    "availableLocks": 21
+  },
+  {
+    "id": "574",
+    "name": "Annette Thommessens Plass",
+    "availableBikes": 10,
+    "availableLocks": 0
+  },
+  {
+    "id": "560",
+    "name": "Gaustad T-bane",
+    "availableBikes": 0,
+    "availableLocks": 7
+  },
+  {
+    "id": "548",
+    "name": "Colbjørnsens gate",
+    "availableBikes": 1,
+    "availableLocks": 16
+  },
+  {
+    "id": "559",
+    "name": "Hoffsveien",
+    "availableBikes": 15,
+    "availableLocks": 2
+  },
+  {
+    "id": "545",
+    "name": "Arkaden Sør",
+    "availableBikes": 38,
+    "availableLocks": 0
+  },
+  {
+    "id": "550",
+    "name": "Thereses gate",
+    "availableBikes": 0,
+    "availableLocks": 9
+  },
+  {
+    "id": "541",
+    "name": "Langkaia",
+    "availableBikes": 8,
+    "availableLocks": 1
+  },
+  {
+    "id": "527",
+    "name": "Biskop Gunnerus' gate",
+    "availableBikes": 6,
+    "availableLocks": 6
+  },
+  {
+    "id": "529",
+    "name": "Friggfeltet",
+    "availableBikes": 2,
+    "availableLocks": 19
+  },
+  {
+    "id": "553",
+    "name": "Skråninga",
+    "availableBikes": 22,
+    "availableLocks": 0
+  },
+  {
+    "id": "538",
+    "name": "Bernt Ankers gate",
+    "availableBikes": 23,
+    "availableLocks": 1
+  },
+  {
+    "id": "549",
+    "name": "Linaaes gate",
+    "availableBikes": 20,
+    "availableLocks": 0
+  },
+  {
+    "id": "526",
+    "name": "Lille Grensen",
+    "availableBikes": 7,
+    "availableLocks": 8
+  },
+  {
+    "id": "537",
+    "name": "St. Olavs gate",
+    "availableBikes": 1,
+    "availableLocks": 17
+  },
+  {
+    "id": "547",
+    "name": "Skippergata",
+    "availableBikes": 9,
+    "availableLocks": 20
+  },
+  {
+    "id": "528",
+    "name": "Nedre Slottsgate",
+    "availableBikes": 12,
+    "availableLocks": 2
+  },
+  {
+    "id": "533",
+    "name": "Sørvest for Slottsparken",
+    "availableBikes": 5,
+    "availableLocks": 6
+  },
+  {
+    "id": "535",
+    "name": "Uranienborgveien",
+    "availableBikes": 0,
+    "availableLocks": 26
+  },
+  {
+    "id": "524",
+    "name": "Volvat",
+    "availableBikes": 0,
+    "availableLocks": 17
+  },
+  {
+    "id": "519",
+    "name": "Thomas Heftyes plass",
+    "availableBikes": 11,
+    "availableLocks": 12
+  },
+  {
+    "id": "534",
+    "name": "Filipstadveien",
+    "availableBikes": 7,
+    "availableLocks": 31
+  },
+  {
+    "id": "521",
+    "name": "Jess Carlsens gate",
+    "availableBikes": 10,
+    "availableLocks": 2
+  },
+  {
+    "id": "518",
+    "name": "Ullevålsveien",
+    "availableBikes": 2,
+    "availableLocks": 16
+  },
+  {
+    "id": "556",
+    "name": "Pilestredet",
+    "availableBikes": 0,
+    "availableLocks": 18
+  },
+  {
+    "id": "525",
+    "name": "Myraløkka Øst",
+    "availableBikes": 1,
+    "availableLocks": 11
+  },
+  {
+    "id": "517",
+    "name": "Tåsenløkka",
+    "availableBikes": 1,
+    "availableLocks": 16
+  },
+  {
+    "id": "523",
+    "name": "Tøyenbekken",
+    "availableBikes": 30,
+    "availableLocks": 0
+  },
+  {
+    "id": "522",
+    "name": "Mandalls gate",
+    "availableBikes": 4,
+    "availableLocks": 2
+  },
+  {
+    "id": "532",
+    "name": "Bryn T-Bane",
+    "availableBikes": 15,
+    "availableLocks": 5
+  },
+  {
+    "id": "509",
+    "name": "Kjeld Stubs gate",
+    "availableBikes": 9,
+    "availableLocks": 2
+  },
+  {
+    "id": "515",
+    "name": "Olav Vs gate",
+    "availableBikes": 20,
+    "availableLocks": 20
+  },
+  {
+    "id": "531",
+    "name": "Monolittveien",
+    "availableBikes": 0,
+    "availableLocks": 18
+  },
+  {
+    "id": "536",
+    "name": "Diakonhjemmet",
+    "availableBikes": 2,
+    "availableLocks": 13
+  },
+  {
+    "id": "562",
+    "name": "Slottsparken Øst",
+    "availableBikes": 5,
+    "availableLocks": 33
+  },
+  {
+    "id": "508",
+    "name": "Majorstuen t-bane",
+    "availableBikes": 2,
+    "availableLocks": 15
+  },
+  {
+    "id": "511",
+    "name": "Henrik Ibsens gate",
+    "availableBikes": 2,
+    "availableLocks": 22
+  },
+  {
+    "id": "505",
+    "name": "Marienlystparken",
+    "availableBikes": 0,
+    "availableLocks": 24
+  },
+  {
+    "id": "501",
+    "name": "Krebs' gate",
+    "availableBikes": 1,
+    "availableLocks": 16
+  },
+  {
+    "id": "514",
+    "name": "Sofienberggata",
+    "availableBikes": 3,
+    "availableLocks": 9
+  },
+  {
+    "id": "500",
+    "name": "Anker Hostel",
+    "availableBikes": 26,
+    "availableLocks": 0
+  },
+  {
+    "id": "503",
+    "name": "Fagerheimgata",
+    "availableBikes": 2,
+    "availableLocks": 29
+  },
+  {
+    "id": "513",
+    "name": "Bøkkerveien",
+    "availableBikes": 0,
+    "availableLocks": 13
+  },
+  {
+    "id": "498",
+    "name": "HasleLinje",
+    "availableBikes": 0,
+    "availableLocks": 18
+  },
+  {
+    "id": "507",
+    "name": "Jens Bjelkes gate",
+    "availableBikes": 2,
+    "availableLocks": 11
+  },
+  {
+    "id": "512",
+    "name": "Ensjø T-Bane",
+    "availableBikes": 8,
+    "availableLocks": 22
+  },
+  {
+    "id": "502",
+    "name": "Ullevål sykehus",
+    "availableBikes": 0,
+    "availableLocks": 35
+  },
+  {
+    "id": "619",
+    "name": "Bak Niels Treschows hus nord",
+    "availableBikes": 0,
+    "availableLocks": 41
+  },
+  {
+    "id": "474",
+    "name": "Blindern studentparkering",
+    "availableBikes": 8,
+    "availableLocks": 34
+  },
+  {
+    "id": "477",
+    "name": "Møllergata",
+    "availableBikes": 26,
+    "availableLocks": 0
+  },
+  {
+    "id": "580",
+    "name": "Georg Morgenstiernes hus",
+    "availableBikes": 17,
+    "availableLocks": 27
+  },
+  {
+    "id": "496",
+    "name": "Fysikkbygningen",
+    "availableBikes": 0,
+    "availableLocks": 45
+  },
+  {
+    "id": "482",
+    "name": "Nydalen",
+    "availableBikes": 1,
+    "availableLocks": 17
+  },
+  {
+    "id": "407",
+    "name": "Sagene bussholdeplass",
+    "availableBikes": 1,
+    "availableLocks": 13
+  },
+  {
+    "id": "409",
+    "name": "John Colletts plass",
+    "availableBikes": 0,
+    "availableLocks": 25
+  },
+  {
+    "id": "451",
+    "name": "Suhms gate",
+    "availableBikes": 3,
+    "availableLocks": 17
+  },
+  {
+    "id": "385",
+    "name": "Søndre gate",
+    "availableBikes": 18,
+    "availableLocks": 3
+  },
+  {
+    "id": "402",
+    "name": "Lørenveien",
+    "availableBikes": 0,
+    "availableLocks": 20
+  },
+  {
+    "id": "516",
+    "name": "Finnmarksgata",
+    "availableBikes": 10,
+    "availableLocks": 5
+  },
+  {
+    "id": "625",
+    "name": "Spikersuppa Øst",
+    "availableBikes": 23,
+    "availableLocks": 19
+  },
+  {
+    "id": "429",
+    "name": "Thune",
+    "availableBikes": 13,
+    "availableLocks": 8
+  },
+  {
+    "id": "380",
+    "name": "Bentsebrugata",
+    "availableBikes": 3,
+    "availableLocks": 20
+  },
+  {
+    "id": "583",
+    "name": "Galgeberg",
+    "availableBikes": 1,
+    "availableLocks": 17
+  },
+  {
+    "id": "398",
+    "name": "Ringnes Park",
+    "availableBikes": 0,
+    "availableLocks": 13
+  },
+  {
+    "id": "381",
+    "name": "Grønlands torg",
+    "availableBikes": 10,
+    "availableLocks": 3
+  },
+  {
+    "id": "464",
+    "name": "Sukkerbiten",
+    "availableBikes": 11,
+    "availableLocks": 21
+  },
+  {
+    "id": "442",
+    "name": "Vulkan",
+    "availableBikes": 12,
+    "availableLocks": 5
+  },
+  {
+    "id": "483",
+    "name": "Hausmanns gate",
+    "availableBikes": 17,
+    "availableLocks": 2
+  },
+  {
+    "id": "458",
+    "name": "Jenny Braatens Plass",
+    "availableBikes": 3,
+    "availableLocks": 11
+  },
+  {
+    "id": "499",
+    "name": "Bjerregaards gate",
+    "availableBikes": 0,
+    "availableLocks": 19
+  },
+  {
+    "id": "472",
+    "name": "Arendalsgata",
+    "availableBikes": 1,
+    "availableLocks": 21
+  },
+  {
+    "id": "506",
+    "name": "Botanisk Hage vest",
+    "availableBikes": 0,
+    "availableLocks": 24
+  },
+  {
+    "id": "465",
+    "name": "Bjørvika",
+    "availableBikes": 24,
+    "availableLocks": 5
+  },
+  {
+    "id": "611",
+    "name": "Bankplassen",
+    "availableBikes": 18,
+    "availableLocks": 21
+  },
+  {
+    "id": "404",
+    "name": "Oslo Handelsgymnasium",
+    "availableBikes": 5,
+    "availableLocks": 21
+  },
+  {
+    "id": "579",
+    "name": "Bogstadveien",
+    "availableBikes": 1,
+    "availableLocks": 16
+  },
+  {
+    "id": "589",
+    "name": "Huk",
+    "availableBikes": 23,
+    "availableLocks": 22
+  },
+  {
+    "id": "434",
+    "name": "Lindern",
+    "availableBikes": 1,
+    "availableLocks": 20
+  },
+  {
+    "id": "462",
+    "name": "Stensparken",
+    "availableBikes": 0,
+    "availableLocks": 12
+  },
+  {
+    "id": "578",
+    "name": "Hallings gate",
+    "availableBikes": 0,
+    "availableLocks": 22
+  },
+  {
+    "id": "415",
+    "name": "Sinsenveien",
+    "availableBikes": 8,
+    "availableLocks": 3
+  },
+  {
+    "id": "423",
+    "name": "Schous plass",
+    "availableBikes": 4,
+    "availableLocks": 15
+  },
+  {
+    "id": "412",
+    "name": "Jakob kirke",
+    "availableBikes": 7,
+    "availableLocks": 0
+  },
+  {
+    "id": "387",
+    "name": "Studenterlunden",
+    "availableBikes": 14,
+    "availableLocks": 1
+  },
+  {
+    "id": "405",
+    "name": "Frognerbadet",
+    "availableBikes": 1,
+    "availableLocks": 15
+  },
+  {
+    "id": "441",
+    "name": "Vippetangen øst",
+    "availableBikes": 8,
+    "availableLocks": 7
+  },
+  {
+    "id": "443",
+    "name": "Sjøsiden øst",
+    "availableBikes": 37,
+    "availableLocks": 6
+  },
+  {
+    "id": "454",
+    "name": "Furulund",
+    "availableBikes": 5,
+    "availableLocks": 18
+  },
+  {
+    "id": "436",
+    "name": "Vestkanttorvet",
+    "availableBikes": 0,
+    "availableLocks": 13
+  },
+  {
+    "id": "394",
+    "name": "Bjølsen Studentby",
+    "availableBikes": 0,
+    "availableLocks": 20
+  },
+  {
+    "id": "497",
+    "name": "Sirkustomta",
+    "availableBikes": 4,
+    "availableLocks": 23
+  },
+  {
+    "id": "581",
+    "name": "Jordalgata",
+    "availableBikes": 3,
+    "availableLocks": 21
+  },
+  {
+    "id": "461",
+    "name": "Vålerenga",
+    "availableBikes": 0,
+    "availableLocks": 19
+  },
+  {
+    "id": "599",
+    "name": "Paléhaven",
+    "availableBikes": 16,
+    "availableLocks": 32
+  },
+  {
+    "id": "400",
+    "name": "HiOA",
+    "availableBikes": 2,
+    "availableLocks": 22
+  },
+  {
+    "id": "438",
+    "name": "BI Nydalen",
+    "availableBikes": 3,
+    "availableLocks": 35
+  },
+  {
+    "id": "459",
+    "name": "Valkyrieplassen",
+    "availableBikes": 0,
+    "availableLocks": 11
+  },
+  {
+    "id": "433",
+    "name": "Ila",
+    "availableBikes": 8,
+    "availableLocks": 6
+  },
+  {
+    "id": "399",
+    "name": "Uelands gate",
+    "availableBikes": 0,
+    "availableLocks": 35
+  },
+  {
+    "id": "489",
+    "name": "Torggata",
+    "availableBikes": 28,
+    "availableLocks": 0
+  },
+  {
+    "id": "742",
+    "name": "Hasle",
+    "availableBikes": 7,
+    "availableLocks": 23
+  },
+  {
+    "id": "551",
+    "name": "Olaf Ryes plass",
+    "availableBikes": 24,
+    "availableLocks": 9
+  },
+  {
+    "id": "406",
+    "name": "Carl Berners plass sør",
+    "availableBikes": 0,
+    "availableLocks": 12
+  },
+  {
+    "id": "488",
+    "name": "Torshovparken vest",
+    "availableBikes": 6,
+    "availableLocks": 16
+  },
+  {
+    "id": "540",
+    "name": "Lilleborgbanen",
+    "availableBikes": 0,
+    "availableLocks": 36
+  },
+  {
+    "id": "431",
+    "name": "Chr. Michelsens Gate",
+    "availableBikes": 0,
+    "availableLocks": 19
+  },
+  {
+    "id": "393",
+    "name": "Hans Nielsen Hauges plass",
+    "availableBikes": 0,
+    "availableLocks": 20
+  },
+  {
+    "id": "420",
+    "name": "Bjølsendumpa",
+    "availableBikes": 1,
+    "availableLocks": 19
+  },
+  {
+    "id": "397",
+    "name": "Storo Storsenter",
+    "availableBikes": 1,
+    "availableLocks": 40
+  },
+  {
+    "id": "390",
+    "name": "Saga Kino",
+    "availableBikes": 11,
+    "availableLocks": 3
+  },
+  {
+    "id": "449",
+    "name": "Ruseløkkgården",
+    "availableBikes": 4,
+    "availableLocks": 19
+  },
+  {
+    "id": "430",
+    "name": "Spikersuppa Vest",
+    "availableBikes": 18,
+    "availableLocks": 21
+  },
+  {
+    "id": "484",
+    "name": "Karenlyst allé",
+    "availableBikes": 30,
+    "availableLocks": 3
+  },
+  {
+    "id": "479",
+    "name": "Tjuvholmen",
+    "availableBikes": 23,
+    "availableLocks": 7
+  },
+  {
+    "id": "403",
+    "name": "Parkveien",
+    "availableBikes": 2,
+    "availableLocks": 12
+  },
+  {
+    "id": "435",
+    "name": "Fram-gården",
+    "availableBikes": 3,
+    "availableLocks": 25
+  },
+  {
+    "id": "426",
+    "name": "Gimle Kino",
+    "availableBikes": 0,
+    "availableLocks": 20
+  },
+  {
+    "id": "456",
+    "name": "Frognerstranda",
+    "availableBikes": 24,
+    "availableLocks": 34
+  },
+  {
+    "id": "468",
+    "name": "Skillebekk",
+    "availableBikes": 6,
+    "availableLocks": 8
+  },
+  {
+    "id": "453",
+    "name": "Frogner Stadion",
+    "availableBikes": 2,
+    "availableLocks": 31
+  },
+  {
+    "id": "466",
+    "name": "Ullevålsalléen",
+    "availableBikes": 1,
+    "availableLocks": 14
+  },
+  {
+    "id": "469",
+    "name": "Studentparlamentet",
+    "availableBikes": 1,
+    "availableLocks": 29
+  },
+  {
+    "id": "416",
+    "name": "Tannlegehøyskolen",
+    "availableBikes": 0,
+    "availableLocks": 15
+  },
+  {
+    "id": "391",
+    "name": "St. Hanshaugen park vest",
+    "availableBikes": 3,
+    "availableLocks": 17
+  },
+  {
+    "id": "389",
+    "name": "Pilestredet Studenthus",
+    "availableBikes": 1,
+    "availableLocks": 15
+  },
+  {
+    "id": "470",
+    "name": "St. Hanshaugen park nord",
+    "availableBikes": 12,
+    "availableLocks": 3
+  },
+  {
+    "id": "384",
+    "name": "Vår Frelsers gravlund sør",
+    "availableBikes": 4,
+    "availableLocks": 14
+  },
+  {
+    "id": "425",
+    "name": "Adamstuen",
+    "availableBikes": 0,
+    "availableLocks": 7
+  },
+  {
+    "id": "411",
+    "name": "Hasle Torg",
+    "availableBikes": 0,
+    "availableLocks": 24
+  },
+  {
+    "id": "598",
+    "name": "Sofienbergparken nord",
+    "availableBikes": 12,
+    "availableLocks": 20
+  },
+  {
+    "id": "444",
+    "name": "AHO",
+    "availableBikes": 1,
+    "availableLocks": 17
+  },
+  {
+    "id": "447",
+    "name": "Kværnerbyen",
+    "availableBikes": 9,
+    "availableLocks": 19
+  },
+  {
+    "id": "408",
+    "name": "Tøyen skole",
+    "availableBikes": 3,
+    "availableLocks": 10
+  },
+  {
+    "id": "737",
+    "name": "Munkegata trikkestopp",
+    "availableBikes": 22,
+    "availableLocks": 2
+  },
+  {
+    "id": "432",
+    "name": "St. Hanshaugen park sør",
+    "availableBikes": 0,
+    "availableLocks": 12
+  },
+  {
+    "id": "401",
+    "name": "Schous plass",
+    "availableBikes": 3,
+    "availableLocks": 3
+  },
+  {
+    "id": "452",
+    "name": "Vippetangen vest",
+    "availableBikes": 17,
+    "availableLocks": 11
+  },
+  {
+    "id": "392",
+    "name": "Sjøsiden vest",
+    "availableBikes": 36,
+    "availableLocks": 14
+  },
+  {
+    "id": "481",
+    "name": "Rådhusgata",
+    "availableBikes": 10,
+    "availableLocks": 22
+  },
+  {
+    "id": "495",
+    "name": "Vaterlandsparken",
+    "availableBikes": 25,
+    "availableLocks": 14
+  },
+  {
+    "id": "478",
+    "name": "Jernbanetorget",
+    "availableBikes": 10,
+    "availableLocks": 3
+  },
+  {
+    "id": "448",
+    "name": "Oslo Plaza",
+    "availableBikes": 6,
+    "availableLocks": 2
+  },
+  {
+    "id": "414",
+    "name": "Kontraskjæret",
+    "availableBikes": 12,
+    "availableLocks": 0
+  },
+  {
+    "id": "476",
+    "name": "Edvard Storms gate",
+    "availableBikes": 0,
+    "availableLocks": 18
+  },
+  {
+    "id": "445",
+    "name": "Sjølyst",
+    "availableBikes": 18,
+    "availableLocks": 0
+  },
+  {
+    "id": "748",
+    "name": "Hydroparken",
+    "availableBikes": 12,
+    "availableLocks": 17
+  },
+  {
+    "id": "473",
+    "name": "Majorstuveien",
+    "availableBikes": 0,
+    "availableLocks": 9
+  },
+  {
+    "id": "383",
+    "name": "Arkitekt Rivertz Plass",
+    "availableBikes": 6,
+    "availableLocks": 19
+  },
+  {
+    "id": "480",
+    "name": "Helga Helgesens plass",
+    "availableBikes": 16,
+    "availableLocks": 6
+  },
+  {
+    "id": "421",
+    "name": "Alexander Kiellands Plass",
+    "availableBikes": 7,
+    "availableLocks": 11
+  },
+  {
+    "id": "746",
+    "name": "Bygdøy allé",
+    "availableBikes": 5,
+    "availableLocks": 5
+  },
+  {
+    "id": "386",
+    "name": "Slemdalsveien",
+    "availableBikes": 0,
+    "availableLocks": 18
+  },
+  {
+    "id": "378",
+    "name": "Colosseum Kino",
+    "availableBikes": 1,
+    "availableLocks": 10
+  },
+  {
+    "id": "417",
+    "name": "Uranienborgparken",
+    "availableBikes": 0,
+    "availableLocks": 15
+  },
+  {
+    "id": "427",
+    "name": "Briskeby",
+    "availableBikes": 0,
+    "availableLocks": 15
+  },
+  {
+    "id": "395",
+    "name": "Frogner Tennisklubb",
+    "availableBikes": 0,
+    "availableLocks": 15
+  },
+  {
+    "id": "418",
+    "name": "Norsk Folkemuseum",
+    "availableBikes": 0,
+    "availableLocks": 9
+  },
+  {
+    "id": "413",
+    "name": "Majorstuen",
+    "availableBikes": 2,
+    "availableLocks": 15
+  },
+  {
+    "id": "486",
+    "name": "Det Teologiske fakultet",
+    "availableBikes": 1,
+    "availableLocks": 24
+  },
+  {
+    "id": "471",
+    "name": "Marienlyst",
+    "availableBikes": 0,
+    "availableLocks": 10
+  },
+  {
+    "id": "597",
+    "name": "Fredensborg",
+    "availableBikes": 15,
+    "availableLocks": 0
+  },
+  {
+    "id": "422",
+    "name": "St. Hanshaugen",
+    "availableBikes": 2,
+    "availableLocks": 10
+  },
+  {
+    "id": "739",
+    "name": "Hammersborg Torg",
+    "availableBikes": 16,
+    "availableLocks": 1
+  },
+  {
+    "id": "382",
+    "name": "Stensgata",
+    "availableBikes": 1,
+    "availableLocks": 5
+  },
+  {
+    "id": "419",
+    "name": "Storgata",
+    "availableBikes": 11,
+    "availableLocks": 0
+  },
+  {
+    "id": "396",
+    "name": "Kirkeristen",
+    "availableBikes": 22,
+    "availableLocks": 0
+  },
+  {
+    "id": "735",
+    "name": "Oslo Hospital",
+    "availableBikes": 14,
+    "availableLocks": 1
+  },
+  {
+    "id": "437",
+    "name": "Sentrum Scene",
+    "availableBikes": 22,
+    "availableLocks": 0
+  },
+  {
+    "id": "446",
+    "name": "Bislett Stadion",
+    "availableBikes": 2,
+    "availableLocks": 20
+  },
+  {
+    "id": "424",
+    "name": "Birkelunden",
+    "availableBikes": 7,
+    "availableLocks": 2
+  },
+  {
+    "id": "455",
+    "name": "Sofienbergparken sør",
+    "availableBikes": 0,
+    "availableLocks": 12
+  },
+  {
+    "id": "457",
+    "name": "Trondheimsveien",
+    "availableBikes": 0,
+    "availableLocks": 10
+  },
+  {
+    "id": "377",
+    "name": "Tøyenparken",
+    "availableBikes": 1,
+    "availableLocks": 28
+  },
+  {
+    "id": "738",
+    "name": "Lodalen busstopp",
+    "availableBikes": 0,
+    "availableLocks": 12
+  },
+  {
+    "id": "460",
+    "name": "Botanisk Hage sør",
+    "availableBikes": 6,
+    "availableLocks": 19
+  },
+  {
+    "id": "734",
+    "name": "Nylandsveien",
+    "availableBikes": 7,
+    "availableLocks": 18
+  },
+  {
+    "id": "744",
+    "name": "Hallénparken",
+    "availableBikes": 0,
+    "availableLocks": 8
+  },
+  {
+    "id": "485",
+    "name": "Sommerfrydhagen",
+    "availableBikes": 10,
+    "availableLocks": 9
+  }
+]
